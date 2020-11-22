@@ -2,6 +2,9 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hillfolk)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hillfolk)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - Blog : https://www.hillfolk.org
 
 ### Documents
