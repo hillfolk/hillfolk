@@ -15,10 +15,10 @@
 
 ### Tool & Skill
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hillfolk)](https://github.com/anuraghazra/github-readme-stats&hide=PHP,CSS,html) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hillfolk&hide=PHP,CSS,html)](https://github.com/anuraghazra/github-readme-stats) 
 
 -   Language:
-    -   Delphi, Java, Python, Go, Javascript
+    -   Go, Java, Python, Object-Pascal, Javascript
 
 -   Backend Skill:
     -   Spring & Spring Boot, Echo, Restful API
