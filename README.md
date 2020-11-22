@@ -18,6 +18,6 @@
     -   Android
 
 -   Tool
-    -   Git, AWS, Slack, Docker, IntelliJ ,Jira
+    -   Git, AWS, Slack, Docker, IntelliJ ,Jira,Github Action
 
 
