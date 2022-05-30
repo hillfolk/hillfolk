@@ -18,10 +18,10 @@
 ### Tool & Skill
 
 -   Language:
-    -   Go, Java, Python, Object-Pascal, Javascript
+    -   Go, Java, Object-Pascal, Javascript
 
 -   Backend Skill:
-    -   Spring & Spring Boot, Echo, Restful API
+    -   Spring & Spring Boot, Echo, REST API
 
 -   Frontend Skill:
     -   BackboneJs, JQuery, Underscore.js, requirejs, Marionette
